@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1586395402 source:c:\users\santi\desktop\color\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"biblioteca.h"
+
+1586391864 c:\users\santi\desktop\color\biblioteca.h
+
+1586395479 source:c:\users\santi\desktop\color\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"biblioteca.h"
+

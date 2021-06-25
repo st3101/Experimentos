@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624597272 source:c:\users\santi\desktop\songcode\main.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+
